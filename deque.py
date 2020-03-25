@@ -15,5 +15,3 @@ dq.popleft()
 
 for e in dq:
     print(e, end=' ')
-
-
